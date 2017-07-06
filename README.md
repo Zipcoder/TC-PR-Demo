@@ -1,2 +1,4 @@
 # TC-PR-Demo
-A small repo for a demo of pull requests
+An awesome repo for a demo of pull requests
+
+![Dinodolphin!](https://i.ytimg.com/vi/bv9YtbGmXM0/maxresdefault.jpg)
