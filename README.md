@@ -1,4 +1,5 @@
-# TC-PR-Demo
-An awesome repo for a demo of pull requests
+# TC-PR-Awesome-Demo
+An awesomer repo for a demo of pull requests
 
-![Dinodolphin!](https://i.ytimg.com/vi/bv9YtbGmXM0/maxresdefault.jpg)
+![Dinodolphin! Bananas! And Rainbows!](https://i.ytimg.com/vi/bv9YtbGmXM0/maxresdefault.jpg)
+
